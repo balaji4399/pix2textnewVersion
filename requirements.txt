@@ -1,0 +1,10 @@
+setuptools
+cupy-cuda12x
+Polygon3
+pix2text>=1.1.0.1
+flask
+flask_cors
+python-pptx
+pandas
+opencv-python
+latex2mathml-3.77.0
